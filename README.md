@@ -9,10 +9,18 @@
 </a>  
 
 
-### Glad to see you here!  
-----I’m a full-stack developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+### Glad to see you here! 
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.---  
+• I'm a Data science guy who performed data cleaning, EDA, feature engineering, feature selection and Machine Learning algorithms for problem statement based on regression and classification using several techniques such as "Linear regression, Logistic regression, Decision tree, KNN, Naive Bayes, Random Forest, AdaBoast, Gradient Descend, XGB, and other Bagging and Boosting algorithms" on various projects.
+
+• With 3+ years of work experience in project execution, working with cross-functional teams, developing, and delivering projects.
+
+• Worked as a program support (Senior manager) supporting to manage multiple projects happening at an extreme pace in an OEM in a highly competitive industry, creating value and saving costs to the organization by timely implementation of the projects. 
+
+• Worked as an electronics engineer, designing and integrating dosing control units alongside top notch teams for several OEMs.
+
+• Worked alongside of multiple teams in various domains such as engineering, manufacturing, sales, management, and operations across nations.
+
   
 <br/>  
 
