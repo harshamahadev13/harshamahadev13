@@ -48,7 +48,7 @@
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img width="745" alt="data-science-life-cycle" src="https://user-images.githubusercontent.com/122000405/220536881-2e51479e-05cb-4b2e-8ded-b035a32533a8.png">
 </div>  
 
 
