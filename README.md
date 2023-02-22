@@ -1,5 +1,4 @@
-![machine-learning1](https://user-images.githubusercontent.com/122000405/220527058-3d063d22-93d8-4461-876b-dd0a2985421d.jpg)
-
+<img width="908" alt="21" src="https://user-images.githubusercontent.com/122000405/220533117-b1157196-1b9f-4f41-9e0f-9c62e127dc48.png">
 
 ## Hey there👋, I'm Harsha Mahadev  
   
