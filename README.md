@@ -1,4 +1,5 @@
 <img width="908" alt="21" src="https://user-images.githubusercontent.com/122000405/220533117-b1157196-1b9f-4f41-9e0f-9c62e127dc48.png">
+<img width="747" alt="31" src="https://user-images.githubusercontent.com/122000405/220536387-80bcf553-8dd3-49c1-8d13-29fdbee98238.png">
 
 ## Hey there👋, I'm Harsha Mahadev  
   
