@@ -1,4 +1,4 @@
-<img width="747" alt="31" src="https://user-images.githubusercontent.com/122000405/220536387-80bcf553-8dd3-49c1-8d13-29fdbee98238.png">
+<img width="746" alt="31" src="https://user-images.githubusercontent.com/122000405/220536672-386a8b86-5af1-404e-b222-2b99ab1613ab.png">
 
 ## Hey there👋, I'm Harsha Mahadev  
   
