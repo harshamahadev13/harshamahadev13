@@ -1,3 +1,6 @@
+![machine-learning1](https://user-images.githubusercontent.com/122000405/220527058-3d063d22-93d8-4461-876b-dd0a2985421d.jpg)
+
+
 ## Hey there👋, I'm Harsha Mahadev  
   
 
@@ -9,7 +12,7 @@
 </a>  
 
 
-### Glad to see you here! 
+### Happy to see you here! 
 
 • I'm a Data science guy who performed data cleaning, EDA, feature engineering, feature selection and Machine Learning algorithms for problem statement based on regression and classification using several techniques such as "Linear regression, Logistic regression, Decision tree, KNN, Naive Bayes, Random Forest, AdaBoast, Gradient Descend, XGB, and other Bagging and Boosting algorithms" on various projects.
 
@@ -31,7 +34,7 @@
 - 🔭 I’m currently working on Machine Learning 
   
 
-- 🌱 I’m currently learning Neural Networks/NLP  
+- 🌱 I’m currently learning Deep learning/NLP  
   
 
 - ❓ Ask me about anything related to Data Science  
