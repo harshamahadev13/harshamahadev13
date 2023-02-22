@@ -26,7 +26,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="100%">
+<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Machine Learning 
   
@@ -38,11 +38,21 @@
   
 
 - ⚡ Fun fact: I keep night shift swithed on at all times   
+  
+  
+- ⚡ Favourite alogrithm: Random Forest Classifier
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
 
 
 ## Languages and Tools  
