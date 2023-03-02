@@ -23,9 +23,12 @@
 
 • Worked alongside of multiple teams in various domains such as engineering, manufacturing, sales, management, and operations across nations.
 
-  
 <br/>  
 
+## Click on the projects below  
+<p><a href="https://github.com/harshamahadev13/Mortality-risk-prediction-for-COVID-19-patients" target="_blank">Mortality-risk-prediction-for-COVID-19-patients</a></p>
+
+<br/>  
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
