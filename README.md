@@ -13,15 +13,7 @@
 
 ### Happy to see you here! 
 
-• I'm a Data science guy who performed data cleaning, EDA, feature engineering, feature selection and Machine Learning algorithms for problem statement based on regression and classification using several techniques such as "Linear regression, Logistic regression, Decision tree, KNN, Naive Bayes, Random Forest, AdaBoast, Gradient Descend, XGB, and other Bagging and Boosting algorithms" on various projects.
-
-• With 3+ years of work experience in project execution, working with cross-functional teams, developing, and delivering projects.
-
-• Worked as a program support (Senior manager) supporting to manage multiple projects happening at an extreme pace in an OEM in a highly competitive industry, creating value and saving costs to the organization by timely implementation of the projects. 
-
-• Worked as an electronics engineer, designing and integrating dosing control units alongside top notch teams for several OEMs.
-
-• Worked alongside of multiple teams in various domains such as engineering, manufacturing, sales, management, and operations across nations.
+• Motivated professional with 3+ years of experience, having strong skills in Python, SQL, data analysis and machine learning. Completed PGP in Data Science, a rigorous full time data science bootcamp. Worked on various machine learning projects using technologies such as Bagging and Boosting algorithms with expertise in visualization tools such as Tableau.
 
 <br/>  
 
