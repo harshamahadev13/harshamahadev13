@@ -13,7 +13,7 @@
 
 ### Happy to see you here! 
 
-• Motivated professional with 3+ years of experience, having strong skills in Python, SQL, data analysis and machine learning. Completed PGP in Data Science, a rigorous full time data science bootcamp. Worked on various machine learning projects using technologies such as Bagging and Boosting algorithms with expertise in visualization tools such as Tableau.
+• I'm a motivated professional with 3+ years of experience, having strong skills in Python, SQL, data analysis and machine learning. Completed PGP in Data Science, a rigorous full time data science bootcamp. Worked on various machine learning projects using technologies such as Bagging and Boosting algorithms with expertise in visualization tools such as Tableau.
 
 <br/>  
 
