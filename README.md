@@ -57,16 +57,6 @@ I build, deploy, and scale ML/LLM systems across domains using both traditional 
 
 ---
 
-### 📈 Tech Stack Visual
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/122000405/220536881-2e51479e-05cb-4b2e-8ded-b035a32533a8.png" alt="Data Science Lifecycle" width="750"/>
-</p>
-
-> *(Let me know if you'd like a custom visual instead — I can design one based on your exact tech stack)*
-
----
-
 ### 📫 Let's Connect
 
 I'm always open to collaborations, AI discussions, and challenging data problems.  
