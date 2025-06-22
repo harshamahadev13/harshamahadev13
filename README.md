@@ -24,12 +24,6 @@ I build, deploy, and scale ML/LLM systems across domains using both traditional 
 
 ---
 
-### 📂 Featured Project
-
-- [🧬 Mortality Risk Prediction for COVID-19 Patients](https://github.com/harshamahadev13/Mortality-risk-prediction-for-COVID-19-patients)
-
----
-
 ### 🛠️ Technologies I Work With
 
 #### 🧪 Languages & Modelling
