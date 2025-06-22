@@ -1,68 +1,81 @@
-<img width="746" alt="31" src="https://user-images.githubusercontent.com/122000405/220536672-386a8b86-5af1-404e-b222-2b99ab1613ab.png">
+<h1 align="center">Hey there 👋, I'm Harsha Mahadev</h1>
 
-## Hey there👋, I'm Harsha Mahadev  
-  
+<p align="center">
+  <a href="https://github.com/harshamahadev13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mahadev-venkata-sai-harsha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/harshamahadev13" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/mahadev-venkata-sai-harsha" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+---
 
+### 👨‍💻 About Me
 
-### Happy to see you here! 
+I'm a **Data Scientist with 5 years of experience**, specializing in:
 
-• I'm a motivated professional with 3+ years of experience, having strong skills in Python, SQL, data analysis and machine learning. Completed PGP in Data Science, a rigorous full time data science bootcamp. Worked on various machine learning projects using technologies such as Bagging and Boosting algorithms with expertise in visualization tools such as Tableau.
+- **Machine Learning**, **Deep Learning**, and **Natural Language Processing**
+- Advanced **Generative AI applications** using **LLMs**, **RAG**, and **custom chatbots**
+- Full-stack implementation with frameworks like **LangChain**, **LlamaIndex**, and **Streamlit**
+- Cloud-based AI solutions using **Google Cloud (GCP)** and **AWS**
 
-<br/>  
+I build, deploy, and scale ML/LLM systems across domains using both traditional and cutting-edge AI techniques.
 
-## Click on the projects below  
-<p><a href="https://github.com/harshamahadev13/Mortality-risk-prediction-for-COVID-19-patients" target="_blank">Mortality-risk-prediction-for-COVID-19-patients</a></p>
+---
 
-<br/>  
+### 📂 Featured Project
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+- [🧬 Mortality Risk Prediction for COVID-19 Patients](https://github.com/harshamahadev13/Mortality-risk-prediction-for-COVID-19-patients)
 
-- 🔭 I’m currently working on Machine Learning 
-  
+---
 
-- 🌱 I’m currently learning Deep learning/NLP  
-  
+### 🛠️ Technologies I Work With
 
-- ❓ Ask me about anything related to Data Science  
-  
+#### 🧪 Languages & Modelling
+- **Python**, **SQL**
+- **ML**, **DL**, **NLP**
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
-  
-  
-- ⚡ Favourite alogrithm: Random Forest Classifier
+#### 🤖 Generative AI
+- **LLM (Large Language Models)**
+- **RAG (Retrieval-Augmented Generation)**
 
+#### 🧠 Concepts
+- **Encoder-Decoder**, **Attention Mechanism**
+- **Transformers**, **Chatbot Development**
 
-</td><td valign="top" width="50%">
+#### 🧰 Frameworks
+- **LangChain**, **LlamaIndex**, **Phidata**, **LangGraph**
+- **Flask**, **Streamlit**
 
-<div align="center">
-<img width="745" alt="data-science-life-cycle" src="https://user-images.githubusercontent.com/122000405/220536881-2e51479e-05cb-4b2e-8ded-b035a32533a8.png">
-</div>  
+#### ☁️ Google Cloud (GCP)
+- **Dialogflow CX**, **Cloud Functions**
+- **BigQuery**, **Spanner**, **Vertex AI**
+- **Google Cloud Storage**
 
+#### ☁️ Amazon Web Services (AWS)
+- **Bedrock**, **SageMaker**, **S3**
+- **Lambda**, **API Gateway**
 
-</td></tr></table>  
+#### 🧰 Tools
+- **GitHub**, **Docker**, **Postman**, **Jira**
+- **Tableau**, **Domino**, **Teradata**
 
-<br/> 
+---
 
+### 📈 Tech Stack Visual
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="75" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
-<a href="https://www.r-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="75" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="75" /></a>  
-<a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="75" /></a>  
-</div>  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/122000405/220536881-2e51479e-05cb-4b2e-8ded-b035a32533a8.png" alt="Data Science Lifecycle" width="750"/>
+</p>
 
-<br/>  
-<br/>  
-<br/>  
-<br/>
+> *(Let me know if you'd like a custom visual instead — I can design one based on your exact tech stack)*
 
+---
+
+### 📫 Let's Connect
+
+I'm always open to collaborations, AI discussions, and challenging data problems.  
+Feel free to [connect on LinkedIn](https://linkedin.com/in/mahadev-venkata-sai-harsha)!
+
+---
