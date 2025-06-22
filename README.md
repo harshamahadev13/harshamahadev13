@@ -44,10 +44,10 @@ I build, deploy, and scale ML/LLM systems across domains using both traditional 
 - **Flask**, **Streamlit**
 
 #### ☁️ Google Cloud (GCP)
-- **CCAI**, **Agent Assist**, **Dialogflow CX**
+- **CCAI**, **Agent Assist**, **Dialogflow CX**, **Playbooks**
 - **Cloud Run Functions**, **Cloud Run**
 - **BigQuery**, **Spanner**, **Google Cloud Storage**
-- **Vertex AI**, **Cloud Logging**
+- **Vertex AI**, **Cloud Logging**, **Data Stores**
 
 #### ☁️ Amazon Web Services (AWS)
 - **Bedrock**, **SageMaker**, **S3**
