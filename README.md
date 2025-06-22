@@ -33,6 +33,7 @@ I build, deploy, and scale ML/LLM systems across domains using both traditional 
 #### 🤖 Generative AI
 - **LLM (Large Language Models)**
 - **RAG (Retrieval-Augmented Generation)**
+- **Prompt Engineering Techniques**
 
 #### 🧠 Concepts
 - **Encoder-Decoder**, **Attention Mechanism**
@@ -43,16 +44,17 @@ I build, deploy, and scale ML/LLM systems across domains using both traditional 
 - **Flask**, **Streamlit**
 
 #### ☁️ Google Cloud (GCP)
-- **Dialogflow CX**, **Cloud Functions**
-- **BigQuery**, **Spanner**, **Vertex AI**
-- **Google Cloud Storage**
+- **CCAI**, **Agent Assist**, **Dialogflow CX**
+- **Cloud Run Functions**, **Cloud Run**
+- **BigQuery**, **Spanner**, **Google Cloud Storage**
+- **Vertex AI**, **Cloud Logging**
 
 #### ☁️ Amazon Web Services (AWS)
 - **Bedrock**, **SageMaker**, **S3**
 - **Lambda**, **API Gateway**
 
 #### 🧰 Tools
-- **GitHub**, **Docker**, **Postman**, **Jira**
+- **GitHub**, **Docker**, **Postman**, **Jira**. **Asana**
 - **Tableau**, **Domino**, **Teradata**
 
 ---
