@@ -20,7 +20,7 @@ I'm a **Data Scientist with 5 years of experience**, specializing in:
 - Full-stack implementation with frameworks like **LangChain**, **LlamaIndex**, and **Streamlit**
 - Cloud-based AI solutions using **Google Cloud (GCP)** and **AWS**
 
-I build, deploy, and scale ML/LLM systems across domains using both traditional and cutting-edge AI techniques.
+I build, deploy, and scale ML/LLM systems across domains using both traditional and cutting-edge AI techniques for Fortune 500 Companies.
 
 ---
 
